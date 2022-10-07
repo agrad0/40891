@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+
+.first-paragraph {
+    background-color: grey;
+}
+
+.second-paragraph {
+    background-color: grey;
+}
